@@ -1,8 +1,13 @@
 ---
+title: "CV"
+format: html
+page-layout: full
+css: ../styles.css
+class: cv-background
+cv:
+  pdf: "RichardsonE_resume.pdf"
 engine: knitr
 freeze: false
-cv:
-  pdf: "25.07.15_RichardsonR_resume.pdf"
 ---
 
 ```{css, echo=FALSE}

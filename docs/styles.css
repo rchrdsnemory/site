@@ -21,17 +21,6 @@
   align-items: flex-start;
 }
 
-/* Left column: photo and links */
-.home-about > div:first-child {
-  flex: 0 0 30% !important;
-  max-width: 30% !important;
-}
-
-/* Right column: text */
-.home-about > div:last-child {
-  flex: 0 0 70% !important;
-  max-width: 70% !important;
-}
 
 /* Target the image banner and remove dark overlay */
 .quarto-title-banner {
@@ -45,5 +34,4 @@
   color: transparent !important;
   text-shadow: none !important;
 }
-
 
