@@ -1,0 +1,15 @@
+---
+title: "Blog"  # Required to trigger the title block
+title-block-banner: "images/BlackMesa_mid2.png"
+page-layout: full
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
