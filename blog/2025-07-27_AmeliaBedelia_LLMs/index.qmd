@@ -1,8 +1,8 @@
 ---
-title: "Is ChatGPT worth your time? AI & the Amelia Bedelia problem"
+title: "Is ChatGPT worth your time? "
 date: 2025-07-27
-description: "An assistant who doesn't understand what you're"
-#image: "downloads/PNG/grp-summarize-02@4x.png"
+description: "AI & the Amelia Bedelia problem"
+# image: "downloads/PNG/grp-summarize-02@4x.png"
 categories:
   - AI / LLMs
   - Speed-accuracy tradeoffs
@@ -12,15 +12,18 @@ citation: true
 draft: true
 ---
 
+# Is ChatGPT worth your time? 
+### *AI & the Amelia Bedelia problem*
 
-![Speed-accuracy tradeoffs](images/incompetentLLM_hundreds.png){width="70%"}
 
-Most general-audience conversations about AI focus on its accuracy: benchmarks beaten, hallucinations still occurring, and some vague notion 
-that popular opinion is divided between the extremes of the "Artificial General Intelligence is just around the corner" camp (it's absolutely not) 
-and the "Large Language Models are just fancy lookup tables" camp (they're absolutely not, but "fancy lookup table" is closer than "super-intelligent 
+![Speed-accuracy tradeoffs](images/incompetentLLM_hundreds.png){width="40%"}
+
+Most general-audience conversations about AI focus on its ***accuracy***: benchmarks beaten, hallucinations still occurring, and some vague notion 
+that popular opinion is divided between the extremes of the "AGI is just around the corner" camp (it's absolutely not) 
+and the "**L**arge **L**anguage **M**odels are just fancy lookup tables" camp (they're absolutely not, but "fancy lookup table" is closer than "super-intelligent 
 machine god" and a lot easier to explain than transformers, next-token prediction, and the weird statistics of large corpora). 
 
-AI's speed is mostly taken for granted. And to be fair, it's hard to interact with any commercial AI for any length of time and not get the impression 
+AI's ***speed*** is mostly taken for granted. And to be fair, it's hard to interact with any commercial AI for any length of time and not get the impression 
 that they could do the work of dozens of desk jockeys in a fraction of the time (and without asking for bonuses or health insurance or lifestyle perks). 
 No human can write a 3-5 paragraph essay in seconds; but an LLM can, on whatever topic you like, and it will do it in iambic pentameter to boot if you ask.
 A lot of the capital invested in AI seems to be riding on the bet that LLMs will relatively quickly recap the last 200 years in the development of the 
@@ -43,11 +46,11 @@ get started on what they wanted to have done already. In other words, the speed-
 
 ![You'll  cost more time than you save if you don't understand what's being asked of you](images/AmeliaBedelia_examples.png){width="70%"}
 
-The speed-accuracy tradeoffs of asking LLMs for help often don't pay off either, for very similar reasons: like Amelia, LLMs don't understand what's 
-being asked of them. The problem is that human languages are ambiguous (e.g., "drawing curtains" and "dusting furniture"), unlike formal languages 
-(mathematical logics, programming languages, etc). So, figuring out what people mean by what they say requires some legwork. You have to compare what 
-someone says to the beliefs and intentions you would expect that specific person to have, given the aspects of the world around them that you take to 
-be most relevant to them at them at that specific moment (which typically includes you or whoever they're talking to, their beliefs about you, and 
+The speed-accuracy tradeoffs of asking LLMs for help often don't pay off either, for very similar reasons: like Amelia, *LLMs don't understand what's 
+being asked of them*. The problem is that human languages are ambiguous (e.g., "drawing curtains" and "dusting furniture"), unlike formal languages 
+(mathematical logics, programming languages, etc). So, figuring out *what people mean* by what they say requires some legwork. You have to compare what 
+someone says to the beliefs and intentions you would expect that *specific* person to have, given the aspects of the world around them that you take to 
+be most relevant to them at them at that *specific* moment (which typically includes you or whoever they're talking to, their beliefs about you, and 
 often their beliefs about what you believe about them). In humans and some other species, that legwork is done by what cognitive scientists and 
 philosophers of mind call "theory of mind" (ToM for short, or sometimes just "mentalizing"). Language is just one part of ToM. The more critical part, 
 which doesn't require language (although it can certainly help) is being able to figure out what people believe, want, and intend. That's the part that 
@@ -60,7 +63,7 @@ have to spend time cross-checking the mismatch with them. You can see that there
 You also know your pantry doesn't have more bags of charcoal than these two, and ToM tells you that like most people, they'd want to use up one before 
 opening the other. You know that they weren't looking at what you're seeing down here in the basement, so ToM tells you that they must not have known 
 that bottom bag didn't have enough chips - or they may have forgotten, or simply wanted to remind you there was an old bag to use up before opening another. 
-And because of ToM, you know that regardless of what they said, their goal is to grill chicken. So, ToM tells you to bring both bags of charcoal, ensuring 
+And because of ToM, you know that *regardless of what they said*, their *goal* is to grill chicken. So, ToM tells you to bring *both* bags of charcoal, ensuring 
 that they have enough to grill the chicken, and can use up the one that's almost empty before opening the new one. That understanding of how to respond to 
 your spouse's request isn't something that's decodable from just the language they used.
 
@@ -87,7 +90,7 @@ start to account for all the time you and everyone else will have to waste on pr
 bullshit, or simply using it without enough concern for getting high-quality/accurate output. In short, once you add up all of those inefficiencies, it's 
 much less clear that AI is going to save you any time, much less beat the speed-accuracy tradeoffs.
 
-To be clear, I'm not saying that there won't be any use-cases where AI has good speed-accuracy tradeoffs: it will consistently save time in some contexts, 
+To be clear, I'm not saying that there won't be *any* use-cases where AI has good speed-accuracy tradeoffs: it will consistently save time in some contexts, 
 just like it's consistently accurate in some contexts. For instance, OpenAI's o4 model has never given me regex code that doesn't work, which is consistent 
 with the general pattern of people finding it pretty useful for coding & programming - at least simple/small-scale coding. 
 
