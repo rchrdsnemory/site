@@ -18,7 +18,7 @@ toc-depth: 3
 ---
 
 # Is ChatGPT worth your time? 
-### *AI & the Amelia Bedelia problem*
+## *AI & the Amelia Bedelia problem*
 
 
 ```{r}
@@ -30,7 +30,7 @@ toc-depth: 3
 knitr::include_graphics("images/incompetentLLM_hundreds.png")
 ```
 
-### Speed versus Accuracy
+## Speed versus Accuracy
 
 Most general-audience conversations about AI focus on its *accuracy*: benchmarks beaten, hallucinations still occurring, and some vague notion 
 that popular opinion is divided between the extremes of the "AGI is just around the corner" camp (it's absolutely not) 
