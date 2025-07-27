@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Learning Ressources\n\n\n\nR stats\n\n\n\nAn overview of a couple of freely available online ressources to learn the basics of R and git\n\n\n\n\n\nNov 17, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nTracked changes for revisions\n\n\n\nrevisions\n\ntracked changes\n\npublishing\n\n\n\nA quick workflow on how to track changes during revisions\n\n\n\n\n\nSep 11, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nMeta analysis for absolute beginners\n\n\n\nmeta-analysis\n\nstats\n\nsystematic review\n\n\n\nA hands-on introduction to the tip of the pyramid of evidence\n\n\n\n\n\nJun 25, 2024\n\n\nJan Pfänder\n\n\n\n\n\nNo matching items"
+    "text": "Learning Ressources\n\n\n\nR stats\n\n\n\nAn overview of a couple of freely available online ressources to learn the basics of R and git\n\n\n\n\n\nNov 17, 2024\n\n\nJan Pfänder\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/research_design/index.html",
@@ -215,5 +215,19 @@
     "title": "Publications",
     "section": "Talks",
     "text": "Talks\n\nPfänder, J., & Mercier, H. (2025, March). Trust in science. Paris School of International Affairs (Sciences Po), Paris.\nPfänder, J., & Altay, S. (2025, March). Spotting False News and Doubting True News. A Meta-Analysis of News Judgments. Infox sur seine, Paris.\nPfänder, J. (2024, July). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? 46th Annual Meeting of the Cognitive Science Society, Rotterdam.\nPfänder, J. (2024, June). Processus sous-tendant la confiance dans la science. 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.\nPfänder, J., & Altay, S. (2024, February). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. EDMO Scientific Conference on Disinformation, Amsterdam."
+  },
+  {
+    "objectID": "blog/2025-07-27_learning-R/index.html",
+    "href": "blog/2025-07-27_learning-R/index.html",
+    "title": "Learning Ressources",
+    "section": "",
+    "text": "There are plenty of free online resources to help learn R and git. Here is a quick collection of some that I came across."
+  },
+  {
+    "objectID": "blog/2025-07-27_learning-R/index.html#footnotes",
+    "href": "blog/2025-07-27_learning-R/index.html#footnotes",
+    "title": "Learning Ressources",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nthis book is mostly about statistics but uses R for examples↩︎"
   }
 ]

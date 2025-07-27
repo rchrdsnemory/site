@@ -25,6 +25,5 @@ execute:
 
 # Default author
 author:
-  - name: Jan Pfänder
-    url: https://janpfander.github.io/
-    orcid: 0009-0009-4389-2807
+  - name: Emory Richardson
+    url: https://github.com/rchrdsnemory
