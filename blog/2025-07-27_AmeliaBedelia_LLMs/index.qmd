@@ -1,5 +1,5 @@
 ---
-title: "Is ChatGPT worth your time? "
+title: "Is ChatGPT worth your time?"
 date: 2025-07-27
 description: "AI & the Amelia Bedelia problem"
 image: "images/incompetentLLM_hundreds.png"
@@ -10,11 +10,6 @@ categories:
 #   url: 
 citation: true
 draft: true
-format:
-  html:
-    fig-align: center
-toc: true
-toc-depth: 3
 ---
 
 # Is ChatGPT worth your time? 
