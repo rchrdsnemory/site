@@ -1,5 +1,5 @@
 ---
-title: "Is ChatGPT worth your time?"
+title: "Is ChatGPT worth your time? Part B"
 date: 2025-07-27
 description: "AI & the Amelia Bedelia problem"
 image: "images/incompetentLLM_hundreds.png"
@@ -24,6 +24,7 @@ format:
 #| fig-align: "center"
 knitr::include_graphics("images/incompetentLLM_hundreds.png")
 ```
+
 ::: {.center-text .small-text}
 *Bad speed-accuracy tradeoffs*
 :::
@@ -40,14 +41,14 @@ The thing is, speed isn't inherently valuable. Speed tends to make outcomes (pro
 
 Amelia Bedelia is a maid in a children's book series who tends to take language at face value, without understanding the intent behind it. As a result, asking her for help is often more trouble than it's worth. Her boss, Mrs. Parish, asks Amelia to get the spots out of her dress, and Amelia does: she gets a pair of scissors and cuts out all the polka dots. Mrs. Parish asks Amelia to draw the curtains, and Amelia gets her pencils and sketches a picture; she asks her to change the towels in the bathroom, and Amelia diligently gets her scissors to make some alterations. Having a maid is supposed to save you time as well as trouble, but when the Parishes get home, the tasks they wanted help with haven't even been started - and they have to spend time re-instructing Amelia and cleaning up her messes before they can even get started on what they wanted to have done already. In other words, the speed-accuracy tradeoffs of asking Amelia for help just don't pay off.
 
-
 ```{r}
 #| eval: true
 #| echo: false
 #| out-width: "70%"
 #| fig-align: "center"
-knitr::include_graphics("images/AmeliaBedelia_examples.png")
+knitr::include_graphics("images/Amelia_LLM.png")
 ```
+
 ::: {.center-text .small-text}
 *You'll cost more time than you save if you don't understand what's being asked of you*
 :::
@@ -62,23 +63,21 @@ But what's critical from a speed-accuracy perspective is that because your spous
 
 ## No theory of mind makes LLMs inefficient helpers, at best
 
-Since we can't rely on LLMs to do ToM reasoning, we have to be extra specific. But it's a weird, Amelia-Bedelia kind of specificity that becomes incredibly difficult to get right whenever projects are relatively complex or niche. Anyone who has interacted with any commercial AI in a serious way has encountered something like it. This reddit post puts it in a nutshell:
+Since we can't rely on LLMs to do ToM reasoning, we have to be extra specific. But it's a weird, Amelia-Bedelia kind of specificity that becomes incredibly difficult to get right whenever projects are relatively complex or niche. Anyone who has interacted with any commercial AI in a serious way has encountered something like it. The reddit post above puts it in a nutshell, but the lesson here is that any request you make to an LLM is going to involve spending time on some combination of (1) explaining yourself in exhaustive detail (relative to what you'd need to do for another non-Amelia human) in order to ensure the LLM has enough context to give a useful answer, (2) crosschecking the LLM's responses to catch hallucinations, (3) re-prompting to try to tweak not-quite-right-output, and occasionally (4) dealing with things like its weird alternations between apologizing for an absurd mistake (as it proceeds to make another absurd mistake) and denying that it's made any mistakes at all.
 
+All of the time you spend doing that has to be subtracted from the time you "saved" by asking it for help in the first place. And that's before you even start to account for all the time you and everyone else will have to waste on problems caused by other people using AI to either deliberately pump out bullshit, or simply using it without enough concern for getting high-quality/accurate output. In short, once you add up all of those inefficiencies, it's much less clear that AI is going to save you any time, much less beat the speed-accuracy tradeoffs.
 
 ```{r}
 #| eval: true
 #| echo: false
 #| out-width: "40%"
 #| fig-align: "center"
-knitr::include_graphics("images/slop_vibeCoding.jpeg")
+knitr::include_graphics("images/slop_combined.png")
 ```
+
 ::: {.center-text .small-text}
-*LLMs don't understand either the problem you're trying to solve or what would count as a solution for you*
+*Sacrificing speed for quality comes back to bite you*
 :::
-
-The lesson here is that any request you make to an LLM is going to involve spending time on some combination of (1) explaining yourself in exhaustive detail (relative to what you'd need to do for another non-Amelia human) in order to ensure the LLM has enough context to give a useful answer, (2) crosschecking the LLM's responses to catch hallucinations, (3) re-prompting to try to tweak not-quite-right-output, and occasionally (4) dealing with things like its weird alternations between apologizing for an absurd mistake (as it proceeds to make another absurd mistake) and denying that it's made any mistakes at all.
-
-All of the time you spend doing that has to be subtracted from the time you "saved" by asking it for help in the first place. And that's before you even start to account for all the time you and everyone else will have to waste on problems caused by other people using AI to either deliberately pump out bullshit, or simply using it without enough concern for getting high-quality/accurate output. In short, once you add up all of those inefficiencies, it's much less clear that AI is going to save you any time, much less beat the speed-accuracy tradeoffs.
 
 ## Is asking ChatGPT worth your time? A rule of thumb
 
