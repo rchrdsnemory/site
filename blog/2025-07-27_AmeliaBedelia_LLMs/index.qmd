@@ -2,7 +2,7 @@
 title: "Is ChatGPT worth your time? "
 date: 2025-07-27
 description: "AI & the Amelia Bedelia problem"
-# image: "downloads/PNG/grp-summarize-02@4x.png"
+image: "images/incompetentLLM_hundreds.png"
 categories:
   - AI / LLMs
   - Speed-accuracy tradeoffs
@@ -10,6 +10,9 @@ categories:
 #   url: 
 citation: true
 draft: true
+format:
+  html:
+    fig-align: center
 ---
 
 # Is ChatGPT worth your time? 
@@ -44,7 +47,7 @@ her to dust the furniture, and Amelia diligently powders it all. Having a maid i
 the tasks they wanted help with haven't even been started - and they have to spend time re-instructing Amelia and cleaning up her messes before they can even 
 get started on what they wanted to have done already. In other words, the speed-accuracy tradeoffs of asking Amelia for help just don't pay off.
 
-![You'll  cost more time than you save if you don't understand what's being asked of you](images/AmeliaBedelia_examples.png){width="70%"}
+![You'll cost more time than you save if you don't understand what's being asked of you](images/AmeliaBedelia_examples.png){width="70%"}
 
 The speed-accuracy tradeoffs of asking LLMs for help often don't pay off either, for very similar reasons: like Amelia, *LLMs don't understand what's 
 being asked of them*. The problem is that human languages are ambiguous (e.g., "drawing curtains" and "dusting furniture"), unlike formal languages 
@@ -78,7 +81,7 @@ Since we can't rely on LLMs to do ToM reasoning, we have to be extra specific. B
 difficult to get right whenever projects are relatively complex or niche. Anyone who has interacted with any commercial AI in a serious way has encountered 
 something like it. This reddit post puts it in a nutshell: 
 
-![LLMs don't understand either the problem you're trying to solve or what would count as a solution for you](images/slop_vibeCoding.jpeg){width="70%"}
+![LLMs don't understand either the problem you're trying to solve or what would count as a solution for you](images/slop_vibeCoding.jpeg){width="40%"}
 
 The lesson here is that any request you make to an LLM is going to involve spending time on some combination of (1) explaining yourself in exhaustive 
 detail (relative to what you'd need to do for another non-Amelia human) in order to ensure the LLM has enough context to give a useful answer, (2) crosschecking 
