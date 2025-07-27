@@ -30,7 +30,9 @@
   background-position: bottom !important;
 }
 
-#title-block-header .quarto-title .title {
+#title-block-header 
+
+.quarto-title .title {
   color: transparent !important;
   text-shadow: none !important;
 }
@@ -40,4 +42,12 @@
   font-style: italic;
 }
 
-
+/* target text alignment */
+.center-text {
+  text-align: center;
+  left: 50%;
+}
+/* target font size */
+.small-text {
+  font-size: 16px;
+}
