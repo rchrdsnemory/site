@@ -35,3 +35,9 @@
   text-shadow: none !important;
 }
 
+.figure-caption {
+  text-align: center;
+  font-style: italic;
+}
+
+

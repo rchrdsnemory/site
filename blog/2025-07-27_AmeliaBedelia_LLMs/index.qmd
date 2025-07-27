@@ -24,20 +24,17 @@ format:
 #| echo: false
 #| out-width: "40%"
 #| fig-align: "center"
+#| fig-cap: "Bad speed-accuracy tradeoffs"
 knitr::include_graphics("images/incompetentLLM_hundreds.png")
 ```
 
-::: {.center-text .small-text}
-*Bad speed-accuracy tradeoffs*
-:::
 
-
-Most general-audience conversations about AI focus on its ***accuracy***: benchmarks beaten, hallucinations still occurring, and some vague notion 
+Most general-audience conversations about AI focus on its *accuracy*: benchmarks beaten, hallucinations still occurring, and some vague notion 
 that popular opinion is divided between the extremes of the "AGI is just around the corner" camp (it's absolutely not) 
 and the "**L**arge **L**anguage **M**odels are just fancy lookup tables" camp (they're absolutely not, but "fancy lookup table" is closer than "super-intelligent 
 machine god" and a lot easier to explain than transformers, next-token prediction, and the weird statistics of large corpora). 
 
-AI's ***speed*** is mostly taken for granted. And to be fair, it's hard to interact with any commercial AI for any length of time and not get the impression 
+AI's *speed* is mostly taken for granted. And to be fair, it's hard to interact with any commercial AI for any length of time and not get the impression 
 that they could do the work of dozens of desk jockeys in a fraction of the time (and without asking for bonuses or health insurance or lifestyle perks). 
 No human can write a 3-5 paragraph essay in seconds; but an LLM can, on whatever topic you like, and it will do it in iambic pentameter to boot if you ask.
 A lot of the capital invested in AI seems to be riding on the bet that LLMs will relatively quickly recap the last 200 years in the development of the 

@@ -1,7 +1,9 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/blog/2025-07-27_AmeliaBedelia_LLMs/index.html"
+    ]
   },
   {
     "listing": "/teaching/index.html",
