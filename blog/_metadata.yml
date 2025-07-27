@@ -15,6 +15,7 @@ format:
 
 # Default for table of contents
 toc: true
+toc-depth: 3
 toc-title: Contents
 toc-location: left
 

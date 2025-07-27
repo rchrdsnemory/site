@@ -50,6 +50,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
     page-layout: full
     citations:
       author: "Emory Richardson"
