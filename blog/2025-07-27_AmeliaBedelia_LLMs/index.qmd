@@ -69,15 +69,15 @@ knitr::include_graphics("images/Amelia_LLM.png")
 
 ## Theory of mind makes humans really good at efficiently communicating intentions
 
-Suppose your spouse is going to grill chicken, and calls out "would you grab the bag of charcoal from the bottom shelf in the basement pantry?" The bag of charcoal you see on the bottom shelf is almost empty, but you see a new bag on the top shelf. What do you do? Because of ToM, you don't have to spend time cross-checking the mismatch with them. 
+Suppose your spouse is going to grill chicken, and calls out "would you grab the bag of charcoal from the bottom shelf in the basement pantry?" The bag of charcoal you see on the bottom shelf is almost empty, but you see a new bag on the top shelf. What do you do? Because of ToM, you don't have to spend time cross-checking the mismatch with them.
 
-- You can see that there's not enough charcoal in the bag they mentioned to grill with. 
+-   You can see that there's not enough charcoal in the bag they mentioned to grill with.
 
-- You also know your pantry doesn't have more bags of charcoal than these two, and ToM tells you that like most people, they'd want to use up one before opening the other. 
+-   You also know your pantry doesn't have more bags of charcoal than these two, and ToM tells you that like most people, they'd want to use up one before opening the other.
 
-- You know that they weren't looking at what you're seeing down here in the basement, so ToM tells you that they must not have known that bottom bag didn't have enough coal - or they may have forgotten, or simply wanted to remind you there was an old bag to use up before opening another. 
+-   You know that they weren't looking at what you're seeing down here in the basement, so ToM tells you that they must not have known that bottom bag didn't have enough coal - or they may have forgotten, or simply wanted to remind you there was an old bag to use up before opening another.
 
-- And because of ToM, you know that *regardless of what they said*, their *goal* is to grill chicken. 
+-   And because of ToM, you know that *regardless of what they said*, their *goal* is to grill chicken.
 
 So, ToM tells you to bring *both* bags of charcoal, ensuring that they have enough to grill the chicken, and can use up the one that's almost empty before opening the new one. That understanding of how to respond to your spouse's request isn't something that's decodable from just the language they used (or from the weird statistics of the massive amouts of text LLMs have been trained on, either).
 
@@ -103,7 +103,7 @@ knitr::include_graphics("images/slop_combined3.png")
 
 ## Is asking ChatGPT worth your time? A rule of thumb
 
-To be clear, I'm not saying that there won't be *any* use-cases where AI has good speed-accuracy tradeoffs: it will consistently save time in some contexts, just like it's consistently accurate in some contexts. For instance, OpenAI's o4 model has never given me regex code that doesn't work, which is consistent with the general pattern of people finding it pretty useful for coding & programming - [at least simple/small-scale coding](https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8). 
+To be clear, I'm not saying that there won't be *any* use-cases where AI has good speed-accuracy tradeoffs: it will consistently save time in some contexts, just like it's consistently accurate in some contexts. For instance, OpenAI's o4 model has never given me regex code that doesn't work, which is consistent with the general pattern of people finding it pretty useful for coding & programming - [at least simple/small-scale coding](https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8).
 
 What I'm saying is that when an LLM is worth your time, it won't be because they've replaced human expertise. It will be because the solutions to the problem are so commonly known that the LLM will be able to find them without understanding either the problem you're trying to solve or what would count as a solution for you. And that *is* [a big chunk of the work that we do every day](https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8).
 
