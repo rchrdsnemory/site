@@ -9,7 +9,7 @@ categories:
 # citation: 
 #   url: 
 citation: false
-draft: true
+draft: false
 format:
   html:
     fig-align: center
