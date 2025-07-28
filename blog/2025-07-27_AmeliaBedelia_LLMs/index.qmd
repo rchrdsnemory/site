@@ -44,7 +44,7 @@ knitr::include_graphics("images/laborSaving_compareLLM.png")
 ```
 
 ::: {.center-text .small-text}
-*Bad speed-accuracy tradeoffs*
+*Good speed-accuracy tradeoffs / Bad speed-accuracy tradeoffs*
 :::
 
 The thing is, speed isn't inherently valuable. Speed tends to make outcomes (products, decisions, judgments) worse. So, it's only valuable to the extent that the time saved is more important than the quality lost. It's called a speed-accuracy tradeoff. Like a lot of species, humans are very good at managing speed-accuracy tradeoffs in their own decisions. But (plugging my own research here), we also use them to [interpret each other’s behavior](../../publications/pdfs/RichardsonKeil_2022_ThinkingTakesTime.pdf), and [make team collaborations more efficient](../../publications/pdfs/RichardsonEtAl_2025_HerdingCats.pdf).When machines started replacing expert craftspeople at the beginning of the industrial revolution, the speed-accuracy tradeoffs often made sense: even though expert craftspeople made better products than the machines that replaced them, the machine-made products were good *enough* that their huge advantage in speed made up for the loss of quality. But in the case of cognitive automation, that's going to be harder to achieve. The reason is what you might think of as the Amelia Bedelia problem.
