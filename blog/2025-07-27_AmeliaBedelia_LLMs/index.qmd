@@ -24,6 +24,7 @@ format:
 #| fig-align: "center"
 knitr::include_graphics("images/METR_study.png")
 ```
+
 ::: {.center-text .small-text}
 *Using AI (probably) makes software developers slower*
 :::
@@ -41,6 +42,7 @@ AI's *speed* is mostly taken for granted. And to be fair, it's hard to interact 
 #| fig-align: "center"
 knitr::include_graphics("images/laborSaving_compareLLM.png")
 ```
+
 ::: {.center-text .small-text}
 *Bad speed-accuracy tradeoffs*
 :::
