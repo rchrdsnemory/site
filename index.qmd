@@ -1,5 +1,5 @@
 ---
-title: "Hello there!"  # Required even if blank
+title: "Emory Richardson | Data Science"  # Required even if blank
 title-block-banner: "images/BlackMesa_top3.png"  # Path to your banner image
 page-layout: full
 
