@@ -98,7 +98,7 @@ knitr::include_graphics("images/slop_combined4.png")
 ```
 
 ::: {.center-text .small-text}
-*Sacrificing speed for quality comes back to bite you*
+*Sacrificing quality for speed can come back to bite you*
 :::
 
 ## Is asking ChatGPT worth your time? A rule of thumb
