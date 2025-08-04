@@ -31,5 +31,4 @@ I did my PhD in cognitive science at Yale with [Frank Keil](https://scholar.goog
 
 Things I get excited about: data, puzzles, theory, statistical methods, human learning, good writing, philosophy of science, social network topologies & their influence on cumulative culture, “the wisdom of crowds” / Condorcet's Jury Theorem / informational vs. social conformity, the spread of (mis)information, languages, and funky bass. Also kettlebells.
 
-
-*past*: postdoc <span class="blueHighlight">@UMich</span> \| PhD <span class="blueHighlight">@Yale</span> \| MAPSS <span class="blueHighlight">@UChicago</span> \| RPCV <span class="blueHighlight">@USPeaceCorps</span> \| Philosophy & History of Science <span class="blueHighlight">@stjohnscollege</span>
+<strong>past</strong>: postdoc <span class="blueHighlight">@UMich</span> \| PhD <span class="blueHighlight">@Yale</span> \| MAPSS <span class="blueHighlight">@UChicago</span> \| RPCV <span class="blueHighlight">@USPeaceCorps</span> \| Philosophy & History of Science <span class="blueHighlight">@stjohnscollege</span>
