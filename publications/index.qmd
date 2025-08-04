@@ -22,7 +22,7 @@ citations-hover: false
 
 -   @Scaffolding2021([<i class="fas fa-file-pdf"></i> PDF](pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"/> code & data](https://osf.io/epk4b/files/osfstorage))
 
--   @RichardsonDissertation2023([<i class="fas fa-file-pdf"></i> PDF](pdfs/dissertation_Richardson2023.pdf)
+-   @RichardsonDissertation2023([<i class="fas fa-file-pdf"></i> PDF])(pdfs/dissertation_Richardson2023.pdf)
 
 
 ```{=html}
