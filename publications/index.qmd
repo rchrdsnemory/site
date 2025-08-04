@@ -22,6 +22,9 @@ citations-hover: false
 
 -   @Scaffolding2021([<i class="fas fa-file-pdf"></i> PDF](pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"/> code & data](https://osf.io/epk4b/files/osfstorage))
 
+-   @RichardsonDissertation2023([<i class="fas fa-file-pdf"></i> PDF](pdfs/dissertation_Richardson2023.pdf)
+
+
 ```{=html}
 <!--
 ## Working papers
@@ -49,6 +52,7 @@ citations-hover: false
 -   @cogsci2020ThinkingTakesTime([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonEtAl2020_ResponseTimes.pdf)
 
 -   @cosci2019RiskImpliesKnowledge([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonJaraEttinger2019_RiskImpliesKnowledge.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2019_RiskImpliesKnowledge.pdf)
+
 
 ```{=html}
 <!--

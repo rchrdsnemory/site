@@ -30,7 +30,7 @@
   background-position: bottom !important;
 }
 
-#title-block-header 
+/*#title-block-header*/
 
 .quarto-title .title {
   color: transparent !important;
@@ -50,4 +50,10 @@
 /* target font size */
 .small-text {
   font-size: 16px;
+}
+
+/* highlight for credentials */
+.blueHighlight {
+  color: #3476D7;
+  font-weight: bold;
 }

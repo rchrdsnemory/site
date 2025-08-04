@@ -2,7 +2,7 @@
 title: "Is ChatGPT worth your time? AI & the Amelia Bedelia problem"
 date: 2025-07-27
 description: "An analogy to illustrate why collaborating with AI often makes teams less efficient"
-image: "images/incompetentLLM_hundreds.png"
+image: "images/incompetentLLMs_hundredsB.png"
 categories:
   - AI / LLMs
   - Speed-accuracy tradeoffs
@@ -40,7 +40,7 @@ AI's *speed* is mostly taken for granted. And to be fair, it's hard to interact 
 #| echo: false
 #| out-width: "90%"
 #| fig-align: "center"
-knitr::include_graphics("images/laborSaving_compareLLM.png")
+knitr::include_graphics("images/laborSaving_compareLLMsB.png")
 ```
 
 ::: {.center-text .small-text}
