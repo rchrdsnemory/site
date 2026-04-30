@@ -27,8 +27,8 @@ about:
 
 Hi! I'm an applied data scientist. I build experiments and statistical models to find the difference-that-makes-a-difference in behavior, beliefs, and decisions.
 
-I did my PhD in cognitive science at Yale with [Frank Keil](https://scholar.google.com/citations?hl=en&user=ZNgPS2cAAAAJ), intending to study [the illusion of explanatory depth](https://www.edge.org/response-detail/27117). Instead, I ended up studying [what makes people so smart](https://rchrdsnemory.github.io/site/publications/), why they often don’t seem that way to each other, and how that applies to real world problems. Prior to that, I spent a few years doing youth development with the US Peace Corps in Kazakhstan and teaching English in Russia. 
+I did my PhD in cognitive science at Yale with [Frank Keil](https://scholar.google.com/citations?hl=en&user=ZNgPS2cAAAAJ), intending to study [the illusion of explanatory depth](https://www.edge.org/response-detail/27117). Instead, I ended up studying [what makes people so smart](https://rchrdsnemory.github.io/site/publications/), why they often don’t seem that way to each other, and how that applies to real world problems. Prior to that, I spent a few years doing youth development with the US Peace Corps in Kazakhstan and teaching English in Russia.
 
 Things I get excited about: data, puzzles, theory, statistical methods, human learning, good writing, philosophy of science, social network topologies & their influence on cumulative culture, “the wisdom of crowds” / Condorcet's Jury Theorem / informational vs. social conformity, the spread of (mis)information, languages, and funky bass. Also kettlebells.
 
-<strong>past</strong>: postdoc <span class="blueHighlight">@UMich</span> \| PhD <span class="blueHighlight">@Yale</span> \| MAPSS <span class="blueHighlight">@UChicago</span> \| RPCV <span class="blueHighlight">@USPeaceCorps</span> \| Philosophy & History of Science <span class="blueHighlight">@stjohnscollege</span>
+<strong>past</strong>: postdoc @UMich \| PhD @Yale \| MAPSS @UChicago \| RPCV @USPeaceCorps \| Philosophy & History of Science @stjohnscollege
