@@ -53,7 +53,7 @@
 }
 
 /* highlight for credentials */
-.blueHighlight {
+.blueHighlight, .citation {
   color: #3476D7;
   font-weight: bold;
 }
